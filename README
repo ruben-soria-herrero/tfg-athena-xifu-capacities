@@ -1,0 +1,3 @@
+Se ha añadido al repositorio el script correspondiente a la simulación de las fuentes (run.bash) escrito en bash de Linux.
+Junto a ello, un ejemplo de archivos tanto utilizados en la simulación (source.fits) como los resultantes (fichero de eventos, espectro, imagen, regiones) en formato fits.
+También se adjuntan las tablas obtenidas y los scripts en Python usados para el análisis de dichas tablas.
