@@ -1,0 +1,12 @@
+RA=0
+Dec=0
+simputfile Simput="brightSource.fits" \
+RA=${RA} \
+Dec=${Dec} \
+srcFlux=1e-12 \
+Emin=2. \
+Emax=10. \
+Elow=0.1 \
+Eup=15. \
+XSPECFile=source.xcm \
+clobber=yes

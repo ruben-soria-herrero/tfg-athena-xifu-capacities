@@ -1,0 +1,13 @@
+RA=0
+Dec=0
+simputfile Simput="galBack.fits" \
+RA=${RA} \
+Dec=${Dec} \
+srcFlux=1.9697e-14 \
+Emin=2. \
+Emax=10. \
+Elow=0.1 \
+Eup=15. \
+XSPECFile=galBack.xcm \
+ImageFile=paraTablaImg.fits \
+clobber=yes
